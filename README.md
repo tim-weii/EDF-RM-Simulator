@@ -77,8 +77,3 @@ These tasks are stored in a `Mytask` structure.
   - **System feasibility** (whether all tasks meet their deadlines under given conditions)  
 
 ---
-
-│  ├─ scheduler_rm.py      # RM scheduling simulation
-│  ├─ scheduler_lst.py     # Strict LST scheduling simulation
-│  └─ utils.py             # Utilities (feasibility checks, logging)
-└─ output/                 # Simulation results (logs / statistics)
