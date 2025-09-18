@@ -53,9 +53,7 @@ These tasks are stored in a `Mytask` structure.
 
 #### 3. **Strict LST (Least Slack Time)**
 - Priority rule:  
-  $$
-  Slack = \text{Absolute Deadline} - \text{Remaining Execution Time}
-  $$
+  `Slack = Absolute Deadline - Remaining Execution Time`  
   Smaller slack → higher priority.  
 - Workflow is similar to EDF but tasks are ordered based on **slack time**.
 
