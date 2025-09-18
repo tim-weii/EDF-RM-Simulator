@@ -6,7 +6,6 @@ This project implements three widely studied **real-time scheduling algorithms**
 - **RM (Rate Monotonic)**
 - **Strict LST (Least Slack Time)**
 
-These algorithms are commonly used in **real-time systems** to ensure that multiple tasks can be scheduled and executed within their **periodic constraints (periods)** and **deadlines**.  
 The simulator models task arrivals, queue management, scheduling decisions, execution, and potential **missed deadlines**.
 
 ---
